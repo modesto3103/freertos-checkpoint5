@@ -15,7 +15,7 @@
  *  CONFIGURAÇÕES GERAIS
  * ========================== */
 
-/* Identificação obrigatória em TODOS os prints */
+/* Identificação obrigatória em TODOS os prints oi */
 #define STUDENT_PREFIX "{Pedro Modesto Mesquita-RM:87880} "
 #define PRINTF(fmt, ...) printf(STUDENT_PREFIX fmt, ##__VA_ARGS__)
 
